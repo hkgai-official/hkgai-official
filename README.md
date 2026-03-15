@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+香港生成式人工智能研發中心（HKGAI）
+
 <!--
 **hkgai-official/hkgai-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
